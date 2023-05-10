@@ -1,0 +1,17 @@
+EXITO|2023-05-05 02:45:32|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+FALLO|2023-05-05 02:47:13|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
+FALLO|2023-05-04 19:57:07|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
+FALLO|2023-05-04 19:59:46|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
+ÉXITO|2023-05-04 20:00:21|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+ÉXITO|2023-05-04 20:02:20|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+ÉXITO|2023-05-04 20:19:01|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+ÉXITO|2023-05-04 20:26:28|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+ÉXITO|2023-05-04 20:26:53|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+FALLO|2023-05-04 20:31:10|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
+FALLO|2023-05-04 20:33:05|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Captcha invalido
+FALLO|2023-05-04 20:33:59|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
+FALLO|2023-05-04 20:34:25|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Captcha invalido
+FALLO|2023-05-04 20:35:16|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Captcha invalido
+ÉXITO|2023-05-04 20:37:32|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+ÉXITO|2023-05-04 20:40:28|elisa635deolmos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|
+FALLO|2023-05-04 20:41:28|elisa635rodriguez@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0|Windows NT 10.0|Usuario no encontrado
